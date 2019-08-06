@@ -23,7 +23,7 @@ With that - enjoy!
 
 PS: I tried my best to make sure that code is correct, and will work
 out of the box in both Linux and Windows. However, I assume it's safe
-to expect that soem one or other bug has crept in somewhere that I
+to expect that some one or other bug has crept in somewhere that I
 haven't found yet. If you do find one, please feel free to let me know
 via email or bug report, or send a push request, so others will be
 spared from finding it again. Of course, any other feedback is
